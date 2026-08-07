@@ -5,19 +5,19 @@ const team = [
     name: "Dr. Omid ",
     role: "",
     image: "/images/dentist-1.png",
-    bio: "General & restorative dentistry with over 15 years of experience.",
+    bio: ".",
   },
   {
     name: "Dr. Munir",
     role: "",
     image: "/images/dentist-2.png",
-    bio: "Specialist in veneers, whitening, and complete smile makeovers.",
+    bio: ".",
   },
   {
     name: "Dr. Fawzia",
     role: "",
     image: "/images/dentist-3.png",
-    bio: "Braces and clear aligner treatment for children and adults.",
+    bio: ".",
   },
 ]
 
