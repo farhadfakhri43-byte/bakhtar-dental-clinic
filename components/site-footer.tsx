@@ -51,18 +51,18 @@ export function SiteFooter() {
           <ul className="mt-4 flex flex-col gap-3">
             <li className="flex items-center gap-3 text-sm text-muted-foreground">
               <MapPin className="h-4 w-4 shrink-0 text-primary" />
-              123 Smile Avenue, Downtown District
+              <span>Shahr-e-Naw, Ansari Square, Kabul-Afghanistan</span>
             </li>
             <li className="flex items-center gap-3 text-sm text-muted-foreground">
               <Phone className="h-4 w-4 shrink-0 text-primary" />
-              <a href="tel:+15550123456" className="transition-colors hover:text-primary">
-                (555) 012-3456
+              <a href="tel:+93780895390" className="transition-colors hover:text-primary">
+                0780895290
               </a>
             </li>
             <li className="flex items-center gap-3 text-sm text-muted-foreground">
               <Mail className="h-4 w-4 shrink-0 text-primary" />
               <a href="mailto:hello@bakhtardental.com" className="transition-colors hover:text-primary">
-                hello@bakhtardental.com
+                Bakhtardentalclinic1@gmail.com
               </a>
             </li>
           </ul>

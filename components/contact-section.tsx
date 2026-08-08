@@ -81,9 +81,9 @@ export function ContactSection() {
               <form onSubmit={handleSubmit} className="flex flex-col gap-4">
                 <div className="grid gap-4 sm:grid-cols-2">
                   <Field id="name" label="Full name" type="text" placeholder="Jane Doe" required />
-                  <Field id="phone" label="Phone" type="tel" placeholder="(555) 000-0000" required />
+                  <Field id="phone" label="Phone" type="tel" placeholder="0700606690" required />
                 </div>
-                <Field id="email" label="Email" type="email" placeholder="jane@email.com" required />
+                <Field id="email" label="Email" type="email" placeholder="bakhtardentalclinic1@gmail.com" required />
                 <div className="flex flex-col gap-1.5">
                   <label htmlFor="service" className="text-sm font-medium text-foreground">
                     Service needed
